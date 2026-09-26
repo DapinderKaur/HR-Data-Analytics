@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 
 Project Type: Guided Project
+
 Guidance: This project was completed by following a guided tutorial and was independently implemented and analyzed using Power BI.
 
 This project focuses on analyzing employee attendance data and building an interactive HR attendance dashboard using Power BI.
