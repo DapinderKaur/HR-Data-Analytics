@@ -1,2 +1,2 @@
 # HR-Data-Analytics
-HR Data Analytics Dashboard built using Excel and Power BI.
+HR attendance analytics dashboard built using Excel, Power Query and Power BI.
