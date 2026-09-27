@@ -56,13 +56,13 @@ Key transformations included:
 
 ## 📷 Dashboard
 
-![HR Attendance Dashboard](Project1.png)
+![HR Attendance Dashboard](HR_Data_Analytics.png)
 
 ## 📁 Project Files
 
-- `Attendance-Sheet-2022-2023(Project1).xlsx` — Source attendance data.
-- `Project1.pbix` — Power BI dashboard and data model.
-- `Project1.png` — Dashboard screenshot.
+- `Attendance-Sheet-2022-2023.xlsx` — Source attendance data.
+- `HR_Data_Analytics.pbix` — Power BI dashboard and data model.
+- `HR_Data_Analytics.png` — Dashboard screenshot.
 
 ## 🎯 Skills Demonstrated
 
